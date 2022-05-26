@@ -4,19 +4,20 @@
 
 *[Assuming Ubuntu]*
 
-**Basic commands
+**Basic commands**
 
-  Run PostgreSQL: sudo -i -u postgres
-  Exit: exit  
+  *Run PostgreSQL:* sudo -i -u postgres
+  *Exit:* exit  
   
-  To connect to the database: psql
-  Quit: \q
+  *To connect to the database:* psql
+  
+  *Quit:* \q
   
   More: https://duckduckgo.com/?t=ffab&q=postgresql+commands&ia=answer&iax=answer
   
-  **Load sample database
+  **Load sample database**
   
-  Copy database zip archive to /var/lib/postgresql (or respected location on your machine; to find out necessary location use ls command while running postgres)
+  *Copy database zip archive to /var/lib/postgresql (or respected location on your machine; to find out necessary location use ls command while running postgres)*
   
   sudo -i -u postgres
   
