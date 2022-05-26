@@ -1,8 +1,8 @@
 # sqldatabase
 
-**Install PostgreSQL on your machine, see https://www.postgresql.org/download/
+**Install PostgreSQL on your machine, see https://www.postgresql.org/download/**
 
-*[Assuming Ubuntu]
+*[Assuming Ubuntu]*
 
 **Basic commands
 
